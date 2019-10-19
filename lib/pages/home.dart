@@ -36,7 +36,7 @@ class HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Todo Apps'),
+        title: Text('New Todo Apps'),
         actions: <Widget>[
           IconButton(
             icon: Icon(Icons.add),
